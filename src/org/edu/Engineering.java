@@ -9,4 +9,7 @@ public class Engineering extends Arts {
 	System.out.println("bTech is technology course");
 
 }
+	public void IT() {
+		System.out.println("IT dept");
+	}
 }
